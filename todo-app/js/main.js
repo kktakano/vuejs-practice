@@ -1,7 +1,7 @@
 var app = new Vue({
   el: '#app',
   data: {
-    newitem: ''
+    newItem: ''
   },
   methods: {
     addItem: function(event){
